@@ -1,4 +1,4 @@
-class TypePromotion{
+public class TypePromotion{
     public static void main(String args[]){
         int a = 15;
         float b = 25f;

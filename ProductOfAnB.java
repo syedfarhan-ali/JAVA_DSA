@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ProductOfAnB{
+public class ProductOfAnB{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

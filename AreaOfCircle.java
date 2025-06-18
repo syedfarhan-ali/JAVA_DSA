@@ -1,6 +1,6 @@
 import java.util.*;
 
-class AreaOfCircle{
+public class AreaOfCircle{
     public static void main(String args[]){
         //pie*r^2 | pie = 3.14;
         Scanner sc = new Scanner(System.in);

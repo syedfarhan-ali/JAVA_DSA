@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SumOfAnB{
+public class SumOfAnB{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
