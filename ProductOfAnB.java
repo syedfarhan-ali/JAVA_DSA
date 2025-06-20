@@ -7,5 +7,6 @@ public class ProductOfAnB{
         int b = sc.nextInt();
         int product = a*b;
         System.out.println(product);
+        sc.close();
     }
 }

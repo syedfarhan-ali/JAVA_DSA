@@ -24,5 +24,6 @@ public class JavaBasics{
 
         // short num = sc.nextShort();
         // System.out.println(num);
+        sc.close();
     }
 }

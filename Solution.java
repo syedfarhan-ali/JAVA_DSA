@@ -37,5 +37,6 @@ public class Solution{
 
         int $ = 24;
         System.out.println($);
+        sc.close();
     }
 }

@@ -8,5 +8,6 @@ public class AreaOfCircle{
         float r = sc.nextFloat();
         float area = pie * r * r;
         System.out.println(area); 
+        sc.close();
     }
 }
