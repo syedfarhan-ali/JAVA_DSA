@@ -19,7 +19,7 @@ public class SlidingWindowMaximum {
             return p2.val - this.val;
         }
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) {//O(nlogk)
         int arr[] = {1, 3, -1, -3, 5, 3, 6, 7};
         int k = 3; //window size
         int res[] = new int[arr.length-k+1]; //n-k+1
