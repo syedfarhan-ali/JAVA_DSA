@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BipartiteCeckUsingColoring {
+public class BipartiteCheckUsingColoring {
     static class Edge {
         int src;
         int dest;
